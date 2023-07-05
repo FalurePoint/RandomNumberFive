@@ -1,0 +1,6 @@
+data/org.failurepoint.randomnumber.desktop.in
+data/org.failurepoint.randomnumber.appdata.xml.in
+data/org.failurepoint.randomnumber.gschema.xml
+src/main.py
+src/window.py
+src/window.ui

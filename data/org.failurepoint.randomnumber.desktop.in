@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=randomnumber
+Exec=randomnumber
+Icon=org.failurepoint.randomnumber
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
