@@ -1,8 +1,8 @@
-# RandomNumber5
+# Random Number Five
 
 ## The simplest (or worst) random number generator you have ever used.
 
-<p>RandomNumber5 is a random number generator written in python woth a very simple
+<p>Random Number Five also known as RandomNumber5 is a random number generator written in python woth a very simple
 UI that takes advanage of the power of GTK4 and GNOME Builder allowing me to i'have written it in under 20 minutes!<p>
 
 <p> OK, I will be honest now, I made it to have something to use to feel out the Flatpak publishing system be fore I publish a project I have been working on for a few years now. i
