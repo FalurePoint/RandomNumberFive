@@ -2,6 +2,10 @@
 
 ## The simplest (or worst) random number generator you have ever used.
 
+<a href="https://stopthemingmy.app">
+    <img width="180" alt="Please Don't Theme" src="https://stopthemingmy.app/badge.svg"/>
+  </a>
+
 <p>Random Number Five also known as RandomNumber5 is a random number generator written in python woth a very simple
 UI that takes advanage of the power of GTK4 and GNOME Builder allowing me to i'have written it in under 20 minutes!<p>
 
